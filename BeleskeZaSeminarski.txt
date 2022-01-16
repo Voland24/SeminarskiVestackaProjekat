@@ -1,0 +1,13 @@
+
+-"What I can't create, I don't understand." -Richard Feynman
+
+Neuronske mreže
+
+-postoji input sloj, nekoliko skrivenih slojeva i output sloj
+-veća vrednost na izlazu, znači veća verovatnoća da je taj neuron "tačan"
+
+-svaki neuron je povezan sa svakim iz prethodnog sloja
+-neuron je unique bias, svaki poteg je unique weight
+
+-mnogo mnogo podesivih parametara
+-problem je kako podesiti sve ovo
